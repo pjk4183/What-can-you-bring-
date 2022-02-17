@@ -1,6 +1,6 @@
 # What U can Bring - American Airline (TAMU Hack 2021)
 
-### Created By Jongkwang Park and Jongyong Park
+### Created By Jongkwang Park and Jongyong Park and Jihyo Kim
 https://devpost.com/software/what-u-can-bring
 ## Inspiration
 While doing the security checks and screening at the airport, have U ever worried that what you brought might have put you in trouble? Not every people do perfectly recognize tons of restricted or prohibited items. Our team created a mobile application to allow users to get rid of their concerns and worries about the security checks at the airport.
